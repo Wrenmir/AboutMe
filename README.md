@@ -39,7 +39,7 @@ My nighttime routine includes
 -[Erwin Schrödinger][2]
 -[H.P. Lovecraft][3]
 
-![How hungry?](
+<img src="https://github.com/Wrenmir/AboutMe/blob/main/img/howhungryhorse.jpg" height=50px width=50px>
 
 [1]: https://en.wikipedia.org/wiki/Albert_Camus
 [2]: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
