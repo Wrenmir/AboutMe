@@ -32,14 +32,17 @@ My nighttime routine includes
 
 ## My Favorite Websites
 [The Invisible Colors of Space](https://cesar.esa.int/index.php?Section=SSE_Estudio_a_traves_del_espectro_portada)
+
 [Pinterest](pinterest.com)
 
 ## Persons of Interest
 -[Albert Camus][1]
+
 -[Erwin Schrödinger][2]
+
 -[H.P. Lovecraft][3]
 
-<img src="https://github.com/Wrenmir/AboutMe/blob/main/img/howhungryhorse.jpg" height=50px width=50px>
+<img src="https://github.com/Wrenmir/AboutMe/blob/main/img/howhungryhorse.jpg" height=200px width=250px>
 
 [1]: https://en.wikipedia.org/wiki/Albert_Camus
 [2]: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
