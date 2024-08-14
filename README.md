@@ -48,7 +48,7 @@ My nighttime routine includes
 
 ## Favorite Terms
 | Terms | Definitions | My Meaning |
-|:-| :----: | 
+|:-|:----:| ---:|
 | Medium | A means by which something is communicated or expressed | I'm bad with words :( |
 | Sentience | The state or quality of being sentient; awareness. sense perception not involving intelligence or mental perception; feeling | ^ |
 | Eccentric | Deviating from conventional or accepted usage or conduct especially in odd or whimsical ways | ^^ |
