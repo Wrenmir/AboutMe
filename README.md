@@ -6,7 +6,7 @@ Hi! My name is Wren Warnock. I’m a 12th grader at Indiana Connections High Sch
 
 
 ## Hobbies
--
+
 My hobbies include
 
 - Guitar
