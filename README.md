@@ -37,7 +37,7 @@ My hobbies include
 </kbd>
 
 ## Favorite Terms
-| Terms | Definitions | My Meaning |
+| Terms | Definitions | 
 |:-|:----:| ---:|
 | Medium | A means by which something is communicated or expressed |
 | Sentience | The state or quality of being sentient; awareness. sense perception not involving intelligence or mental perception; feeling |
