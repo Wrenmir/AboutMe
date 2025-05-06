@@ -40,8 +40,8 @@ My hobbies include
 | Terms | Definitions | My Meaning |
 |:-|:----:| ---:|
 | Medium | A means by which something is communicated or expressed |
-| Sentience | The state or quality of being sentient; awareness. sense perception not involving intelligence or mental perception; feeling | ^ |
-| Eccentric | Deviating from conventional or accepted usage or conduct especially in odd or whimsical ways | ^^ |
+| Sentience | The state or quality of being sentient; awareness. sense perception not involving intelligence or mental perception; feeling |
+| Eccentric | Deviating from conventional or accepted usage or conduct especially in odd or whimsical ways | 
 
 [1]: https://en.wikipedia.org/wiki/Albert_Camus
 [2]: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
