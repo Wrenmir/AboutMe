@@ -38,7 +38,7 @@ My hobbies include
 
 ## Favorite Terms
 | Terms | Definitions | 
-|:-|:----:| ---:|
+|:-|:----:|
 | Medium | A means by which something is communicated or expressed |
 | Sentience | The state or quality of being sentient; awareness. sense perception not involving intelligence or mental perception; feeling |
 | Eccentric | Deviating from conventional or accepted usage or conduct especially in odd or whimsical ways | 
