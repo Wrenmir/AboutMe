@@ -2,7 +2,7 @@
 ---
 ---
 ## Introduction
-Hi! My name is Wren Warnock. I’m a 12th grader at Indiana Connections High School and a second year computer science student at Southern Indiana Career & Technical School. I aspire to be a software engineer, study astrophysics, and pursue video game design and development as a hobby.
+Hi! My name is Wren Warnock. I’m a 12th grader at Indiana Connections High School and a second year computer science student at Southern Indiana Career & Technical School. I am an incoming freshman at the University of Southern Indiana, and I will be dual-majoring in computer science and applied physics!
 
 
 ## Hobbies
@@ -12,13 +12,8 @@ My hobbies include
 - Guitar
 - Ballet
 - Crochet
-
-My nighttime routine includes
-
-1. Remove makeup
-2. Wash face
-3. Brush teeth
-4. Pick out outfit for the next day
+- Piano
+- Poetry
 
 ## My Philosophy
 *"The only way to live in an unfree world is to become so absolutely free that your very existence is an act of rebellion. Because it isn't meaninglessness that hurts, it's the contradiction of needing meaning and not getting it"* -Albert Camus
@@ -29,11 +24,6 @@ My nighttime routine includes
 "Perhaps there's a holy watcher in the sky, perhaps we're an alien experiment, perhaps it's all just atoms and chance but who can be sure? Not **us**. Not **yet** at least. But we can **dance** in the mystery, absurdism says, with the dance as the point all along." -Exurb1a
 
 "Science has not yet taught us if madness is or is not the **sublimity** of the intelligence" -Edgar Allen Poe
-
-## My Favorite Websites
-[The Invisible Colors of Space](https://cesar.esa.int/index.php?Section=SSE_Estudio_a_traves_del_espectro_portada)
-
-[Pinterest](pinterest.com)
 
 ## Persons of Interest
 -[Albert Camus][1]
@@ -49,7 +39,7 @@ My nighttime routine includes
 ## Favorite Terms
 | Terms | Definitions | My Meaning |
 |:-|:----:| ---:|
-| Medium | A means by which something is communicated or expressed | I'm bad with words :( |
+| Medium | A means by which something is communicated or expressed |
 | Sentience | The state or quality of being sentient; awareness. sense perception not involving intelligence or mental perception; feeling | ^ |
 | Eccentric | Deviating from conventional or accepted usage or conduct especially in odd or whimsical ways | ^^ |
 
